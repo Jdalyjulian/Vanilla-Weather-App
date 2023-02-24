@@ -96,6 +96,25 @@ small {
   text-decoration: none;
 }
 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.forecast-date {
+  font-size: 16px;
+  color: rgb(135, 135, 135);
+  font-weight: 500;
+}
+.forecast-temperature-min {
+  color: rgb(135, 135, 135);
+  opacity: 0.6;
+}
+
+.forecast-temperature {
+  font-size: 13px;
+  color: rgb(135, 135, 135);
+}
 .sourceCode {
   color: aliceblue;
 }
